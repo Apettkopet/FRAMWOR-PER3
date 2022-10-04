@@ -12,7 +12,7 @@ class sarjana extends mahasiswa
 { 
  protected function getTugasAkhir() 
  { 
- return "Jamilatur R Y"; 
+ return "Muhammad Hafizh Hanafi"; 
  } 
  public function getProgram($postfix){ 
  print "{$postfix} Saya "; 
@@ -22,7 +22,7 @@ class magister extends mahasiswa
 { 
  public function getTugasAkhir() 
  { 
- return "G.211.21.0088"; 
+ return "G.211.21.0060"; 
  } 
  public function getProgram($postfix) 
  { 
